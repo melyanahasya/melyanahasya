@@ -39,7 +39,8 @@ export default {
   computed: {
     adminAccess() {
       return sessionStorage.getItem("role")  === 'admin'
-    }},
+    }
+  },
   methods: {
     out() {
       sessionStorage.clear();

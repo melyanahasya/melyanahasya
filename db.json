@@ -12,5 +12,78 @@
       "role": "siswa",
       "id": 2
     }
+  ],
+  "pesawats": [
+    {
+      "merk": "Boeing 737",
+      "tipe": "Pesawat jet berbadan sempit",
+      "buatan": "China",
+      "tahun": "1967",
+      "id": "2"
+    },
+    {
+      "merk": "Boeing 737",
+      "tipe": "Pesawat jet berbadan sempit",
+      "buatan": "China",
+      "tahun": "1967",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiOSwENCMliPABa3MSZIl5KJFitepKSDSwRmBov5I5mRz4nPo9dpvQskKsjjr63d4p7As&usqp=CAU",
+      "id": "2"
+    },
+    {
+      "merk": "Piaggio P180 Avanti",
+      "tipe": "Executive transport  ",
+      "buatan": "Piaggio Aero",
+      "tahun": 1986,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcZFKiGmfv5lMKGuOA98FLd_5reswmTHYlg&usqp=CAU",
+      "id": "3"
+    },
+    {
+      "merk": "ATR 72",
+      "tipe": "Pesawat penumpang regional",
+      "buatan": "Prancis-Italia",
+      "tahun": "1988",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOpyuv5UJMwdwYy4dHzC9lWS0K3AGIkV-_Aw&usqp=CAU",
+      "id": "0"
+    },
+    {
+      "merk": "Airbus A320",
+      "tipe": "Pesawat jet berbadan sempit",
+      "buatan": "Perancis",
+      "tahun": "1988",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4PBNLFKMBRPK_hmXr5ogEwsE7kopFhZSmg&usqp=CAU",
+      "id": "1"
+    }
+  ],
+  "motors": [
+    {
+      "merk": "Kawasaki",
+      "tipe": "Klasik",
+      "buatan": "Jepang",
+      "tahun": "18960",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "merk": "Yamaha",
+      "tipe": " Gear 125",
+      "buatan": "Jepang ",
+      "tahun": "2017 ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbEvnYt5n1arE5Qq5E3NWapZ91Y2MAloYERw&usqp=CAU"
+    },
+    {
+      "merk": "Suzuki",
+      "tipe": " Suzuki GSX R150 ",
+      "buatan": "Jepang ",
+      "tahun": "1982",
+      "image": "",
+      "id": "7"
+    },
+    {
+      "merk": "Gesits",
+      "tipe": "Electric",
+      "buatan": "Indonesia",
+      "tahun": "1896",
+      "id": "8"
+    }
   ]
 }

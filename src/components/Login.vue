@@ -18,7 +18,8 @@
              type="password"
              required
              name="password"
-             v-model="form.password" class="form_login"
+             v-model="form.password"
+             class="form_login"
               placeholder=" masukkan password.." />
 
             <button 
