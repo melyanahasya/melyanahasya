@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 <h1 align="center">Hi 👋, I'm melyana</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">I'm a frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [absensi](https://github.com/melyanahasya/absensi_php.git)
 
