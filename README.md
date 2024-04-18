@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
      <div id="badges">
   <a href="https://www.linkedin.com/in/mely-sasa-97b281295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
