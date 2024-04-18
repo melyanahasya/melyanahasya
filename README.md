@@ -16,7 +16,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
      <h1>
 Hi 👋, I'm melyana
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>F
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melyanahasya&row=1&no-frame=true&margin-w=15&theme=discord" alt="melyanahasya" /></a></p>
 </div>
