@@ -27,6 +27,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <h1 align="center">Hi 👋, I'm melyana</h1>
 <h3 align="center">I'm a frontend developer from Indonesia</h3>
 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melyanahasya&row=1&no-frame=true&margin-w=15&theme=discord" alt="melyanahasya" /></a></p>
+</div>
+
 - 🔭 I’m currently working on [absensi](https://github.com/melyanahasya/absensi_php.git)
 
 - 🌱 I’m currently learning **Tailwind, Bootstrap, codeigniter**
