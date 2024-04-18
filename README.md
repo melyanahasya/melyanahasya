@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/azizikhoiri/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ibnuljefry99@gmail.com">
+  <a href="mailto:melysasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.instagram.com/ibnuljefry99/">
@@ -25,7 +25,7 @@ Hi 👋, I'm melyana
 
 ### :man_technologist: About Me :
 
-I'm a frontend developer from Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I'm a frontend developer from Indonesia from Indonesia.
 
 - 🔭 I’m currently working on [absensi](https://github.com/melyanahasya/absensi_php.git)
 
