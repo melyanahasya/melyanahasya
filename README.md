@@ -1,17 +1,17 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
      <div id="badges">
-  <a href="https://www.linkedin.com/in/azizikhoiri/">
+  <a href="https://www.linkedin.com/in/mely-sasa-97b281295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:melysasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/ibnuljefry99/">
+  <a href="https://www.instagram.com/asyamdrp/"> 
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
 </div>
-     <img src="https://komarev.com/ghpvc/?username=AziziKhoiri99&style=flat-square&color=blue" alt=""/>
+     <img src="https://komarev.com/ghpvc/?username=melyanahasya&style=flat-square&color=blue" alt=""/>
   <a href="https://wakatime.com/@3e92424a-54fc-4d9c-899c-3e7c3e0c046a"><img src="https://wakatime.com/badge/user/3e92424a-54fc-4d9c-899c-3e7c3e0c046a.svg" alt="Total time coded since Jul 17 2023" /></a>
   <img alt="Static Badge" src="https://img.shields.io/badge/status-chillin-gray?labelColor=red">
      <h1>
@@ -70,15 +70,11 @@ I'm a frontend developer from Indonesia from Indonesia.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AziziKhoiri99&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melyanahasya&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AziziKhoiri99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melyanahasya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Hello World 👋](https://dev.to/azizikhoiri99/hello-world-4jgl)
-<!-- BLOG-POST-LIST:END -->
